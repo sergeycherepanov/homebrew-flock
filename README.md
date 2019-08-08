@@ -8,7 +8,7 @@ These formulae provide software created by the discoteq project, including:
 
 How do I install these formulae?
 --------------------------------
-Just `brew tap sergeycherepanov/flock` and then `brew install <formula>`.
+Just `brew tap sergeycherepanov/flock` and then `brew install flock`.
 
 You can also install via URL:
 
