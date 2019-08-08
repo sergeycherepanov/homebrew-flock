@@ -8,12 +8,12 @@ These formulae provide software created by the discoteq project, including:
 
 How do I install these formulae?
 --------------------------------
-Just `brew tap discoteq/discoteq` and then `brew install <formula>`.
+Just `brew tap sergeycherepanov/flock` and then `brew install <formula>`.
 
 You can also install via URL:
 
 
-    brew install https://raw.githubusercontent.com/discoteq/homebrew-discoteq/master/<formula>.rb
+    brew install https://raw.githubusercontent.com/sergeycherepanov/homebrew-discoteq/master/<formula>.rb
 
 Docs
 ----
